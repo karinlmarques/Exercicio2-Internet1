@@ -1,0 +1,17 @@
+<jornal>
+	<edicao>
+		<capa>
+			<manchete>
+				<titulo> </titulo>
+				<resumo> </resumo>
+				<texto> 
+					<paragrafo> </paragrafo>
+				</texto>
+			</manchete>
+			<propaganda>
+				<figura> </figura>
+				<texto> </texto>
+			</propaganda>
+		</capa>
+	</edicao>
+</jornal>

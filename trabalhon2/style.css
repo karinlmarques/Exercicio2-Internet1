@@ -1,0 +1,17 @@
+*{margin:0; }
+.menu {list-style-type: none; margin-top: 80px; font-family:verdana,arial; float:left; font-size:14px}
+.menu li {border-left: 5px solid #01A9DB; color:#A4A4A4; margin-bottom:23px}
+.menu li a {text-decoration:none; color: #A4A4A4; margin-left: 3px; }
+.menu li a:hover{color:red}
+.corpo2 {float:left; font-family:verdana, arial; width:630px; color:#A4A4A4; text-indent:50px; padding:30px; font-size:12px; margin-right:30px; margin-left:10px; margin-top:25px}
+.corpo2 h1 {font-size: 15px; margin-bottom: 10px;text-indent:0px; border-bottom:1px solid #01A9DB; margin-right: 550px }
+.clr{clear:both}
+.corpo1 img{float:left; margin-top: 80px; margin-left: 25px; }
+.corpo3 {float:left; font-family:verdana, arial;color:#A4A4A4; width:500px; height: 400px; margin-left:20px}
+.corpo3 h2{font-size: 15px; text-indent:0px; border-bottom:1px solid #01A9DB; margin-right: 350px; margin-top: 30px; margin-bottom: 50px;}
+.corpo3 form {margin-bottom:10px; margin-left:70px; font-size:12px}
+.corpo3 fieldset {border:1px solid #A4A4A4}
+.rodape img{margin-left: 0px}
+	p {margin-bottom:20px}
+.bloco{width: 1360px; height:300px}
+.bloco2 {width: 1360px; height:300px}

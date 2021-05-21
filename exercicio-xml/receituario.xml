@@ -1,0 +1,13 @@
+<receituario>
+	<clinica>IAS| Instituto de assistencia a saude
+Rede Preferencial DOCTOR CLIN</clinica>
+	<paciente>Karin Marques</paciente>
+	<tratamento>
+		<remedio1>Venalot 2x dia;</remedio1>
+		<remedio2>Addera d3 50000 1xsemana;</remedio2>
+		<duracao>tratamento 6 meses</duracao>
+	</tratamento>
+	<data>10/02/2017</data>
+	<medico>Dr Carlos Guilhermo Marconi</medico>
+	<CRM>CRM 33454 </CRM>
+</receituario>

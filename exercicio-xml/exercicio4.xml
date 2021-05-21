@@ -1,0 +1,22 @@
+<raiz>
+	<cabecalho> 
+		<data> </data>
+		<paciente> 
+			<nome> </nome>
+		</paciente>
+	</cabecalho>
+	<corpo> 
+		<posologia> 
+			<remedio> 
+				<nome> </nome>
+			</remedio>
+			<quantidade> </quantidade>
+			<nrVezesAoDia> </nrVezesAoDia>
+		</posologia>
+		<medico> 
+			<nome> </nome>
+			<data> </data>
+			<assinatura> </assinatura>
+		</medico>
+	</corpo>
+</raiz>	
