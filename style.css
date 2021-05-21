@@ -1,0 +1,10 @@
+*{margin:0}
+h1{text-align:center; color: white; font-family:verdana; font-size: 40px; padding:20px}
+header{height: 180px; width: 1336px; background-color: black;}
+nav{list-style-type:none; height:30px; margin-left: 300px; font-family:verdana; font-size: 35px}
+li{background-color:#000; float:left; padding: 20px;list-style-type:none}
+	a {color: #FFF}
+aside {margin-top:50px; }
+section {width: 1336px; height: 350px}
+article {float:left; width: 600px; height: 300px; margin-top: 50px; margin-left: 50px; text-indent:40px; text-align:justify; font-size:15px; font-family:verdana }
+footer {background-color:#000; color:white; text-align:right; height: 50px;width: 1336px}
